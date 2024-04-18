@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "convert": "^5.0.0",
+    "cypress": "^13.7.3",
+    "cypress-plugin-api": "^2.11.1",
+    "excel-to-json": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-xlsx": "^0.24.0"
+  }
+}
